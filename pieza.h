@@ -6,6 +6,7 @@ class pieza{
 		int general;
 		int marine;
 		int size;
+		int** tablero;
 		int x;
 		int y;
 
